@@ -1,0 +1,41 @@
+<Collections.ProductList>
+  <productList>
+    <myapp.Product>
+      <ID>1</ID>
+      <sName>Goodfellas</sName>
+      <sDecription>A Mob story</sDecription>
+      <sImage>N/A</sImage>
+      <m__Category>DVD</m__Category>
+      <price>12.99</price>
+      <m__StockQuantity>1</m__StockQuantity>
+    </myapp.Product>
+    <myapp.Product>
+      <ID>1</ID>
+      <sName>Black Hawk Down</sName>
+      <sDecription>Military Drama</sDecription>
+      <sImage>N/A</sImage>
+      <m__Category>DVD</m__Category>
+      <price>15.99</price>
+      <m__StockQuantity>1</m__StockQuantity>
+    </myapp.Product>
+    <myapp.Product>
+      <ID>1</ID>
+      <sName>The Godfather</sName>
+      <sDecription>A Mob story</sDecription>
+      <sImage>N/A</sImage>
+      <m__Category>DVD</m__Category>
+      <price>13.99</price>
+      <m__StockQuantity>1</m__StockQuantity>
+    </myapp.Product>
+    <myapp.Product>
+      <ID>11</ID>
+      <sName>Halo 3</sName>
+      <sDecription>Xbox game</sDecription>
+      <sImage>N/A</sImage>
+      <m__Category>DVD</m__Category>
+      <price>34.99</price>
+      <m__StockQuantity>1</m__StockQuantity>
+    </myapp.Product>
+  </productList>
+  <PRODUCTLIST__FILE>ProductListData.xml</PRODUCTLIST__FILE>
+</Collections.ProductList>

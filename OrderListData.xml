@@ -1,0 +1,168 @@
+<Collections.OrderList>
+  <orderList>
+    <myapp.Order>
+      <id>0</id>
+      <dDate>21/11/2010</dDate>
+      <mCustomer class="myapp.RegularCustomer">
+        <ID>1</ID>
+        <sName>Mary Smith</sName>
+        <sAddress>21 hill street,
+Drogheda,
+co louth
+</sAddress>
+        <balance>14.0</balance>
+        <DISCOUNT__RATE>0.05</DISCOUNT__RATE>
+        <DISCOUNT__AMOUNT__REQUIRED>400.0</DISCOUNT__AMOUNT__REQUIRED>
+      </mCustomer>
+      <m__OrderedProducts>
+        <myapp.Product>
+          <ID>1</ID>
+          <sName>Goodfellas</sName>
+          <sDecription>A Mob story</sDecription>
+          <sImage>N/A</sImage>
+          <m__Category>DVD</m__Category>
+          <price>12.99</price>
+          <m__StockQuantity>1</m__StockQuantity>
+        </myapp.Product>
+        <myapp.Product>
+          <ID>1</ID>
+          <sName>Black Hawk Down</sName>
+          <sDecription>Military Drama</sDecription>
+          <sImage>N/A</sImage>
+          <m__Category>DVD</m__Category>
+          <price>15.99</price>
+          <m__StockQuantity>1</m__StockQuantity>
+        </myapp.Product>
+        <myapp.Product>
+          <ID>1</ID>
+          <sName>The Godfather</sName>
+          <sDecription>A Mob story</sDecription>
+          <sImage>N/A</sImage>
+          <m__Category>DVD</m__Category>
+          <price>13.99</price>
+          <m__StockQuantity>1</m__StockQuantity>
+        </myapp.Product>
+        <myapp.Product reference="../myapp.Product"/>
+      </m__OrderedProducts>
+      <m__discountAmount>0.0</m__discountAmount>
+      <m__orderTotal>67.71000000000001</m__orderTotal>
+      <VAT__RATE>0.21</VAT__RATE>
+    </myapp.Order>
+    <myapp.Order>
+      <id>0</id>
+      <dDate>21/11/2010</dDate>
+      <mCustomer class="myapp.RegularCustomer">
+        <ID>1</ID>
+        <sName>Mary Smith</sName>
+        <sAddress>21 hill street,
+Drogheda,
+co louth
+</sAddress>
+        <balance>14.0</balance>
+        <DISCOUNT__RATE>0.05</DISCOUNT__RATE>
+        <DISCOUNT__AMOUNT__REQUIRED>400.0</DISCOUNT__AMOUNT__REQUIRED>
+      </mCustomer>
+      <m__OrderedProducts>
+        <myapp.Product>
+          <ID>1</ID>
+          <sName>Goodfellas</sName>
+          <sDecription>A Mob story</sDecription>
+          <sImage>N/A</sImage>
+          <m__Category>DVD</m__Category>
+          <price>12.99</price>
+          <m__StockQuantity>1</m__StockQuantity>
+        </myapp.Product>
+        <myapp.Product>
+          <ID>1</ID>
+          <sName>Black Hawk Down</sName>
+          <sDecription>Military Drama</sDecription>
+          <sImage>N/A</sImage>
+          <m__Category>DVD</m__Category>
+          <price>15.99</price>
+          <m__StockQuantity>1</m__StockQuantity>
+        </myapp.Product>
+        <myapp.Product>
+          <ID>11</ID>
+          <sName>Halo 3</sName>
+          <sDecription>Xbox game</sDecription>
+          <sImage>N/A</sImage>
+          <m__Category>DVD</m__Category>
+          <price>34.99</price>
+          <m__StockQuantity>1</m__StockQuantity>
+        </myapp.Product>
+        <myapp.Product reference="../myapp.Product"/>
+      </m__OrderedProducts>
+      <m__discountAmount>0.0</m__discountAmount>
+      <m__orderTotal>93.11999999999999</m__orderTotal>
+      <VAT__RATE>0.21</VAT__RATE>
+    </myapp.Order>
+    <myapp.Order>
+      <id>0</id>
+      <dDate>21/11/2010</dDate>
+      <mCustomer class="myapp.RegularCustomer">
+        <ID>0</ID>
+        <sName>Jim jones</sName>
+        <sAddress>21 hill street,
+Dundalk,
+co louth
+</sAddress>
+        <balance>0.0</balance>
+        <DISCOUNT__RATE>0.05</DISCOUNT__RATE>
+        <DISCOUNT__AMOUNT__REQUIRED>400.0</DISCOUNT__AMOUNT__REQUIRED>
+      </mCustomer>
+      <m__OrderedProducts>
+        <myapp.Product>
+          <ID>1</ID>
+          <sName>The Godfather</sName>
+          <sDecription>A Mob story</sDecription>
+          <sImage>N/A</sImage>
+          <m__Category>DVD</m__Category>
+          <price>13.99</price>
+          <m__StockQuantity>1</m__StockQuantity>
+        </myapp.Product>
+      </m__OrderedProducts>
+      <m__discountAmount>0.0</m__discountAmount>
+      <m__orderTotal>16.93</m__orderTotal>
+      <VAT__RATE>0.21</VAT__RATE>
+    </myapp.Order>
+    <myapp.Order>
+      <id>0</id>
+      <dDate>21/11/2010</dDate>
+      <mCustomer class="myapp.RegularCustomer">
+        <ID>0</ID>
+        <sName>Jim jones</sName>
+        <sAddress>21 hill street,
+Dundalk,
+co louth
+</sAddress>
+        <balance>0.0</balance>
+        <DISCOUNT__RATE>0.05</DISCOUNT__RATE>
+        <DISCOUNT__AMOUNT__REQUIRED>400.0</DISCOUNT__AMOUNT__REQUIRED>
+      </mCustomer>
+      <m__OrderedProducts>
+        <myapp.Product>
+          <ID>1</ID>
+          <sName>Goodfellas</sName>
+          <sDecription>A Mob story</sDecription>
+          <sImage>N/A</sImage>
+          <m__Category>DVD</m__Category>
+          <price>12.99</price>
+          <m__StockQuantity>1</m__StockQuantity>
+        </myapp.Product>
+        <myapp.Product>
+          <ID>1</ID>
+          <sName>Black Hawk Down</sName>
+          <sDecription>Military Drama</sDecription>
+          <sImage>N/A</sImage>
+          <m__Category>DVD</m__Category>
+          <price>15.99</price>
+          <m__StockQuantity>1</m__StockQuantity>
+        </myapp.Product>
+      </m__OrderedProducts>
+      <m__discountAmount>0.0</m__discountAmount>
+      <m__orderTotal>35.07</m__orderTotal>
+      <VAT__RATE>0.21</VAT__RATE>
+    </myapp.Order>
+  </orderList>
+  <ORDERLIST__FILE>OrderListData.xml</ORDERLIST__FILE>
+</Collections.OrderList>

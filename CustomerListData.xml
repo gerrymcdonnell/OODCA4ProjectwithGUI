@@ -1,0 +1,49 @@
+<Collections.CustomerList>
+  <customerList>
+    <myapp.RegularCustomer>
+      <ID>0</ID>
+      <sName>Jim jones</sName>
+      <sAddress>21 hill street,
+Dundalk,
+co louth
+</sAddress>
+      <balance>0.0</balance>
+      <DISCOUNT__RATE>0.05</DISCOUNT__RATE>
+      <DISCOUNT__AMOUNT__REQUIRED>400.0</DISCOUNT__AMOUNT__REQUIRED>
+    </myapp.RegularCustomer>
+    <myapp.RegularCustomer>
+      <ID>1</ID>
+      <sName>Mary Smith</sName>
+      <sAddress>21 hill street,
+Drogheda,
+co louth
+</sAddress>
+      <balance>14.0</balance>
+      <DISCOUNT__RATE>0.05</DISCOUNT__RATE>
+      <DISCOUNT__AMOUNT__REQUIRED>400.0</DISCOUNT__AMOUNT__REQUIRED>
+    </myapp.RegularCustomer>
+    <myapp.RegularCustomer>
+      <ID>2</ID>
+      <sName>Jim o neill</sName>
+      <sAddress>61 hill street,
+Cavan
+co Cavan
+</sAddress>
+      <balance>0.0</balance>
+      <DISCOUNT__RATE>0.05</DISCOUNT__RATE>
+      <DISCOUNT__AMOUNT__REQUIRED>400.0</DISCOUNT__AMOUNT__REQUIRED>
+    </myapp.RegularCustomer>
+    <myapp.RegularCustomer>
+      <ID>0</ID>
+      <sName>Jim jones</sName>
+      <sAddress>21 hill street,
+Dundalk,
+co louth
+</sAddress>
+      <balance>0.0</balance>
+      <DISCOUNT__RATE>0.05</DISCOUNT__RATE>
+      <DISCOUNT__AMOUNT__REQUIRED>400.0</DISCOUNT__AMOUNT__REQUIRED>
+    </myapp.RegularCustomer>
+  </customerList>
+  <CUSTOMERLIST__FILE>CustomerListData.xml</CUSTOMERLIST__FILE>
+</Collections.CustomerList>
